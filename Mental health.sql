@@ -1,3 +1,4 @@
+# Data cleaning using SQL
 create database mental_health;
 select * from mental_health.survey;
 # Removing unnecessary columns
